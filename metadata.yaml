@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41015'
     url: http://www.gutenberg.org/2009/agents/41015
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41165#The-Isles-of-ScillyTheir-Story-their-Folk--amp--their-Flowers
 gutenberg_issued: '2012-10-24'
 gutenberg_type: Text
 identifiers:
