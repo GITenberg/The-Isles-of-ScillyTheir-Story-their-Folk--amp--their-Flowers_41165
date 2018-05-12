@@ -1,0 +1,25 @@
+_repo: The-Isles-of-ScillyTheir-Story-their-Folk--amp--their-Flowers_41165
+_version: 0.1.0
+alternative_title: 'The Isles of Scilly: Their Story Their Folk and Their Flowers'
+covers:
+- cover_type: archival
+  image_path: 41165-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mothersole, Jessie
+    gutenberg_agent_id: '41015'
+    url: http://www.gutenberg.org/2009/agents/41015
+description: ''
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Isles of Scilly (England) -- Description and travel'
+title: 'The Isles of Scilly: Their Story Their Folk & Their Flowers'
+url: http://www.gutenberg.org/ebooks/41165
